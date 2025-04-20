@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Peayu
+- 👋 Hi, I’m @Piya
 - 👀 I’m interested in anything and everything in general
 - 🌱 I’m currently learning data structures and algorithms
 - 💞️ I’m looking to collaborate on nothing in particular but anything that comes my way
